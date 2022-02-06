@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-06T19:32:36 IST" name="Suite" finished-at="2022-02-06T19:33:22 IST" duration-ms="45936">
+    <groups>
+    </groups>
+    <test started-at="2022-02-06T19:32:36 IST" name="Test" finished-at="2022-02-06T19:33:22 IST" duration-ms="45936">
+      <class name="testcases.MergeLead">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.MergeLead@7ef82753]" started-at="2022-02-06T19:32:56 IST" name="preCondition" finished-at="2022-02-06T19:32:58 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runMergeLead()[pri:0, instance:testcases.MergeLead@7ef82753]" started-at="2022-02-06T19:32:58 IST" name="runMergeLead" finished-at="2022-02-06T19:33:14 IST" duration-ms="16308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMergeLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.MergeLead@7ef82753]" started-at="2022-02-06T19:33:14 IST" name="postCondition" finished-at="2022-02-06T19:33:18 IST" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.MergeLead -->
+      <class name="testcases.EditLead">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.EditLead@3e27ba32]" started-at="2022-02-06T19:32:51 IST" name="preCondition" finished-at="2022-02-06T19:32:53 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runEditLead()[pri:0, instance:testcases.EditLead@3e27ba32]" started-at="2022-02-06T19:32:53 IST" name="runEditLead" finished-at="2022-02-06T19:33:09 IST" duration-ms="15930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runEditLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.EditLead@3e27ba32]" started-at="2022-02-06T19:33:09 IST" name="postCondition" finished-at="2022-02-06T19:33:09 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.EditLead -->
+      <class name="testcases.DuplicateLead">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.DuplicateLead@117159c0]" started-at="2022-02-06T19:32:36 IST" name="preCondition" finished-at="2022-02-06T19:32:39 IST" duration-ms="2916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runDuplicateLead()[pri:0, instance:testcases.DuplicateLead@117159c0]" started-at="2022-02-06T19:32:39 IST" name="runDuplicateLead" finished-at="2022-02-06T19:32:56 IST" duration-ms="17081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDuplicateLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.DuplicateLead@117159c0]" started-at="2022-02-06T19:32:56 IST" name="postCondition" finished-at="2022-02-06T19:32:56 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.DuplicateLead -->
+      <class name="testcases.DeleteLead">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.DeleteLead@3b0fe47a]" started-at="2022-02-06T19:33:09 IST" name="preCondition" finished-at="2022-02-06T19:33:10 IST" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runDeleteLead()[pri:0, instance:testcases.DeleteLead@3b0fe47a]" started-at="2022-02-06T19:33:10 IST" name="runDeleteLead" finished-at="2022-02-06T19:33:22 IST" duration-ms="11148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDeleteLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.DeleteLead@3b0fe47a]" started-at="2022-02-06T19:33:22 IST" name="postCondition" finished-at="2022-02-06T19:33:22 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.DeleteLead -->
+      <class name="testcases.CreateLead">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.CreateLead@27406a17]" started-at="2022-02-06T19:32:36 IST" name="setUp" finished-at="2022-02-06T19:32:36 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:testcases.CreateLead@27406a17]" started-at="2022-02-06T19:32:37 IST" name="preCondition" finished-at="2022-02-06T19:32:39 IST" duration-ms="2258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcases.CreateLead@27406a17]" started-at="2022-02-06T19:32:39 IST" name="runCreateLead" data-provider="fetchData" finished-at="2022-02-06T19:32:51 IST" duration-ms="12453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Legato]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sumanth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[k]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcases.CreateLead@27406a17]" started-at="2022-02-06T19:32:51 IST" name="postCondition" finished-at="2022-02-06T19:32:51 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcases.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
